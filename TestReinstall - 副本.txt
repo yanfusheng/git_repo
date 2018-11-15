@@ -1,0 +1,2 @@
+The system has been reinstalled on 2018-11-14, and the software git has been reinstalled on 2018-11-15,
+now test if it can transfer a file to remote repository in the case which git has no new ssh key.
